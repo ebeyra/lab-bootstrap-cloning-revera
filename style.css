@@ -1,0 +1,47 @@
+.test {
+  padding: 25px;
+  justify-content: center;
+}
+.home {
+  color: #ed564b;
+}
+.navlinks {
+  color: #777;
+}
+.navlinks:hover {
+  color: #ed564b;
+  text-decoration: none;
+}
+.main-bg-text {
+  background-image: url("/starter-code/img/overlay.png");
+  margin: 0;
+  background-color: transparent;
+}
+
+.caption-title {
+  margin-bottom: 140px;
+}
+
+.three-icons-one {
+  color: white;
+}
+.three-icons-two {
+  color: white;
+}
+.three-icons-three {
+  color: white;
+}
+
+.orange-box {
+  background: #ed564b;
+  border-top: 5px solid #f96b61;
+  border-bottom: 5px solid #f96b61;
+  padding: 50px;
+  justify-content: center;
+  text-align: center;
+}
+
+.orange-box img {
+  width: 100px;
+  margin: 25px;
+}
